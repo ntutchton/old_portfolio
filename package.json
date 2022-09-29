@@ -8,7 +8,7 @@
     "axios": "^0.18.0",
     "install": "^0.12.2",
     "npm": "^6.4.1",
-    "nuka-carousel": "^4.4.4",
+    "nuka-carousel": "^4.8.4",
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
